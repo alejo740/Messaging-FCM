@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "42847849651",
+    "firebase_url": "https://fcm-test-9b498.firebaseio.com",
+    "project_id": "fcm-test-9b498",
+    "storage_bucket": "fcm-test-9b498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42847849651:android:e7a4b1fd380f228f",
+        "android_client_info": {
+          "package_name": "com.edwin.cobos.appmessagingfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42847849651-47rd7l8n4qsm1cvmjj5tl4g2ms7ddr7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwin.cobos.appmessagingfcm",
+            "certificate_hash": "5547847709f25ccb8e04d44ea91f7e4e958e9e97"
+          }
+        },
+        {
+          "client_id": "42847849651-p8uc2j5j4upgegr9un9sdvquplr2jl28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwRHM4OetXCFXxMBfEIVhU4tzewkvCoBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42847849651-p8uc2j5j4upgegr9un9sdvquplr2jl28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
