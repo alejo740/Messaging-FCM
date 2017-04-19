@@ -13,9 +13,19 @@
     tools:context="com.edwin.cobos.appmessagingfcm.activities.ResultActivity">
 
     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/title_result"
+        android:textStyle="bold"
+        android:textSize="@dimen/result_title_size"
+        android:layout_margin="10dp"/>
+
+    <TextView
         android:id="@+id/messageTextView"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
         android:singleLine="false"
         android:minLines="1"/>
 
